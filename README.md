@@ -1,5 +1,5 @@
 # Task 2 :
-#Java pogramming languge
+# Java pogramming languge
 public class NumberPrinter {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
@@ -20,7 +20,7 @@ public class NumberPrinter {
     }
 }
 
-#JavaScript programming languge
+# JavaScript programming languge
 for (let i = 1; i <= 100; i++) {
     let output = '';
     if (i % 3 === 0) {
