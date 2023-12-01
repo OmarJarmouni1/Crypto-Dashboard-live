@@ -1,5 +1,5 @@
-#Task 2 :
-# Java pogramming languge
+# Task 2 :
+#Java pogramming languge
 public class NumberPrinter {
     public static void main(String[] args) {
         for (int i = 1; i <= 100; i++) {
@@ -20,7 +20,7 @@ public class NumberPrinter {
     }
 }
 
-# JavaScript programming languge
+#JavaScript programming languge
 for (let i = 1; i <= 100; i++) {
     let output = '';
     if (i % 3 === 0) {
@@ -39,7 +39,7 @@ for (let i = 1; i <= 100; i++) {
 }
 
 
-#task 3 :
+# Task3 :
 
 step1: Start by driving a green car in one direction at a steady speed for a specific period of time or distance. Keep track of how long gone.
 
