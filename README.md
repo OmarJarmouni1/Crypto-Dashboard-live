@@ -38,3 +38,11 @@ for (let i = 1; i <= 100; i++) {
     console.log(output);
 }
 
+
+#task 3 :
+
+step1: Start by driving a green car in one direction at a steady speed for a specific period of time or distance. Keep track of how long gone.
+
+step2: Then, it's time to turn back! After driving for a certain time or distance, turn around and drive in the opposite direction for the same amount of time or distance as in step 1.
+
+step3: Keep repeating this process of driving a set distance in one direction, then turning back and driving the same distance in the opposite direction. Keep going until the spot  red car!
